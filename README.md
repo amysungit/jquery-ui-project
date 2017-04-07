@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# jquery-ui Project
+## jquery-ui Project Structure
 
 *Default Structure for A Basic Project*
 
